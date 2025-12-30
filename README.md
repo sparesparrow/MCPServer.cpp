@@ -8,6 +8,9 @@
 [![Build Status](https://img.shields.io/github/actions/workflow/status/caomengxuan666/MCPServer.cpp/build.yml)](https://github.com/caomengxuan666/MCPServer.cpp/actions)
 </div>
 
+> ⚠️ **MCP C++ IMPLEMENTATION EVALUATION**: This repository is one of several C++ MCP server implementations (TinyMCP, MCPServer.cpp, mcp-fbs). A strategic evaluation is underway to consolidate these implementations or create a unified wrapper. See [Consolidation Discussion](#) for details. Performance characteristics and use cases for each implementation are being documented.
+> 
+
 ## Language Versions
 
 - [English (Default)](README.md)
